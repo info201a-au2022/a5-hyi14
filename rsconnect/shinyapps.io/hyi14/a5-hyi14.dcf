@@ -5,10 +5,9 @@ account: hyi14
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7844380
-bundleId: 6608544
+bundleId: 6608683
 url: https://hyi14.shinyapps.io/a5-hyi14/
-when: 1670471313.44939
-lastSyncTime: 1670471313.4494
+when: 1670473031.64433
+lastSyncTime: 1670473031.64434
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: www/.DS_Store

@@ -1,10 +1,10 @@
 # app_server.R
 
-library(shiny)
-library(ggplot2)
-library(plotly)
-library(tidyverse)
-library(dplyr)
+library("shiny")
+library("tidyverse")
+library("dplyr")
+library("ggplot2")
+library("plotly")
 
 df <- read.csv('owid-co2-data.csv') %>% 
   na.omit()
