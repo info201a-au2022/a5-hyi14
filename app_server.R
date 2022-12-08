@@ -32,9 +32,6 @@ server <- function(input, output) {
         title = "CO2 Emissions vs. Selected Feature (1750-2021)",
         y = "C02 Emissions (million tonnes)"
       )
-
-    # Make Interactive
-    # p <- ggplotly(p) 
     
     # Trendline
     if (input$smooth) {

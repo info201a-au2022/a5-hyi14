@@ -7,7 +7,7 @@ library(ggplot2)
 library(plotly)
 
 source("app_ui.R")
-source("app_server.R")    # How to make plot interactive w plotly?
+source("app_server.R")
 
 # Run the application
 shinyApp(ui = ui, server = server)
